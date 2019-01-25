@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hello-ES6]]></title>
+    <url>%2F2019%2F01%2F25%2FHello-ES6%2F</url>
+    <content type="text"><![CDATA[#ES6入门 ##1.ES6的由来###ECMAScript 和 JavaScriptECMA 是标准，JS 是实现ECMAScript 简称 ECMA 或 ES ###历史版本1996, ES1.0 Netscape 将 JS 提交给 ECMA 组织，ES 正式出现1999, ES3.0 被广泛支持2011, ES5.1 成为 ISO 国际标准2015, ES6.0 正式发布 ##2.ES6的兼容性###ES6(ES2015) 支持的环境 IE10+, Chrome, FireFox, 移动端, NodeJS ###解决不兼容办法，编译、转换 ##3.变量let和常量const以及和var的区别##4.函数-箭头函数 ##5.函数-参数 ##6.解析赋值 ##7.数组 ##8.set和map ##8.字符串 ##9.面向对象&lt;基础&gt; ##10.面向对象&lt;实例&gt; ##11.json ##12.Promise ##13.gennerator-认识生成器函数 ##14.generator-yield是啥 ##15.generator-实例]]></content>
+      <categories>
+        <category>2019-1</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[阙和荣]]></title>
     <url>%2F2019%2F01%2F22%2F%E5%8C%97%E6%A1%8E%E5%8D%97%2F</url>
     <content type="text"><![CDATA[阙和荣这是第一篇文章这是一个链接]]></content>
